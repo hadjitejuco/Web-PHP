@@ -7,7 +7,7 @@ Topics:
 
 Introduction to PHP
 Why PHP
-What can PHP can do?
+What can PHP can do? 
 Software to run PHP
 Additional software
 
